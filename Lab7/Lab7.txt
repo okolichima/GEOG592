@@ -1,0 +1,30 @@
+Lab 7 is due on April 4, before class.
+In lab7 folder, you can find the county population file for USA from 1930 - 2000.
+In demographics, the rank mobility index (RMI) is a measure of an area's change in 
+population rank among a group of areas.
+Formally
+(R1-R2)/(R1+R2)
+where
+R1 = area's population rank at time 1
+R2 = area's population rank at time 2
+A RMI value must be between −1 and 1. A RMI of 0 indicates no change.
+A positive RMI indicates increase in RANK. A change in higher rank carries more weight.
+
+Please design a Python Tool to carry the RMI analysis.
+The basic rank tool design (25 Points)
+1) The user selects the input dataset
+2) Then the user selects an numerical field to rank
+3) The user also defines (types) the name of the new field
+
+Your tool will create a new Rank field (with the name defined by the user) and assign the correct
+rank value to the field (1,2, ...)
+
+Bonus (Extra 10 Points)
+The design of a Python Tool to compute the complete RMI analysis:
+1) Select the input dataset
+2) Select a State
+3) Choose two different years (for example, 1980 and 2000)
+4) Name the RMI field
+Your python tool will create an output feature class for the chosen state with RMI values
+
+.

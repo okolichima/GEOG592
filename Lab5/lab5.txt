@@ -1,0 +1,4 @@
+Lab5 is due on March 9th, before class.
+Suitability Raster Analysis
+Please create a Model in either ArcGIS Pro for the Bobcat habitat example we discussed in class and export your model as both a python script and a image (lab5.py and lab5.jpg - 15 points)
+Modify the script (lab5.py) so it will allow a user to configure weights of slope, landuse, and distance to streams. (10 points)

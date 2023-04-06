@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, March 23, 2023 3:11:57 PM</msg><msg code="1" type="100">Traceback (most recent call last):
+  File "&lt;string&gt;", line 274, in execute
+NameError: name 'bufDistStr' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (Tool_Q4).</msg><msg code="0" type="3">Failed at Thursday, March 23, 2023 3:12:00 PM (Elapsed Time: 2.84 seconds)</msg></messages>

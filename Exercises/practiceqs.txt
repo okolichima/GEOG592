@@ -1,0 +1,9 @@
+1. Convert the worldcities.csv to a point feature class (worldcities.shp).
+2. Create a search cursor for worldcities.shp to answer the following questions:
+1) Find the city with the most population
+2) Find the country with the most city population (hard question)
+3) Find the country with the most # of cities. (also hard)
+3. Create a update cursor for worldcities.shp - add a new field (Pop2030). 
+The estimated 2030 population for all cities is current population * 1.25
+4. Create a script to find all cities within 30 miles of major rivers (rivers.shp). Print out the # of cities which meet this condition as well.
+5. Create a script to allow a user to select (type) a interstate, such as I40), and select rivers within 30 miles of the chosen highway's buffer. Export the result as riverInBuf.shp.
